@@ -1,4 +1,4 @@
-![Stepnew Technologies Logo](/banner.jpg)
+![Stepnew Technologies Logo](banner.jpg)
 
 **Stepnew Technologies** é uma software house que auxilia empresas na construção de seus produtos. Usamos apenas tecnologias comprovadas de alto nível para garantir a você segurança, escalabilidade e experiência impecável.
 
