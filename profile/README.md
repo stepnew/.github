@@ -22,5 +22,5 @@ Treinamento em tecnologias sólidas que atendam às necessidades do negócio.
 ### 📧 Entre em contato
 #### 🌎 Site: https://www.stepnew.com.br/ 
 #### 📧 E-mail: hello@stepnew.com.br
-#### 📸 Instagram: https://www.instagram.com/stepnew.tech 
+#### 📸 Instagram: https://www.instagram.com/stepnewtecnologia
 
